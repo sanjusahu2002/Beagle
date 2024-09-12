@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+
+    padding: 12px;
+}
+.header-section{
+    padding: 12px;
+    border: 1px solid black;
+}
+.header-section h1{
+    text-decoration: underline;
+    margin-bottom: 22px;
+    
+}
+.header-section p{
+    margin-bottom: 22px;
+}
+.img-section{
+    margin: 12px;
+
+}
+.img-section h2{
+    text-decoration: underline;
+    margin-bottom: 22px;
+  
+}
+.img-section img{
+    width: 300px;
+}
+.footer-section{
+    margin: 10px;
+}
+.footer-section h2{
+    text-decoration: underline;
+    margin-bottom: 22px;
+}
+
+.footer-section ol{
+    margin-left: 22px;
+}
+.footer-section ol li{
+    margin: 8px;;
+}
+a{
+    color: black;
+}
